@@ -1,5 +1,5 @@
 # GrowNet-Integrated-Agri-Marketplace-Platform
-MERN Stack
+MERN Stack and Python
 Architected and developed a full-stack agri-marketplace platform supporting produce trading, equipment rentals, and
 Wholesale Buyer-focused auction workflows.
 Designed and implemented RESTful APIs for user management, product listings, bidding, and transaction handling.
